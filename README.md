@@ -40,7 +40,15 @@ To start a new writeup: copy `_template/TEMPLATE.md` into the right folder, rena
 
 | Machine | OS | Difficulty | Key techniques | Writeup |
 |---|---|---|---|---|
-| _add here_ | | | | |
+| Previse | Linux | Medium | EAR, command injection, PATH hijack | [previse.md](htb/machines/previse.md) |
+| Sau | Linux | Easy | SSRF, Maltrail RCE, pager escape | [sau.md](htb/machines/sau.md) |
+| GoodGames | Linux | Easy | SQLi, SSTI, Docker escape | [goodgames.md](htb/machines/goodgames.md) |
+| Devvortex | Linux | Medium | Joomla CVE, sudo apport-cli | [devvortex.md](htb/machines/devvortex.md) |
+| Paper | Linux | Easy | WordPress draft leak, path traversal, Polkit | [paper.md](htb/machines/paper.md) |
+| MonitorsFour | Windows | Easy | IDOR, Cacti CVE, Docker Desktop API | [monitorsfour.md](htb/machines/monitorsfour.md) |
+| Responder (SP) | Windows | Very Easy | LFI/RFI, NTLM capture, WinRM | [responder.md](htb/machines/responder.md) |
+| Three (SP) | Linux | Very Easy | vhost, open S3 bucket, webshell | [three.md](htb/machines/three.md) |
+| Funnel (SP) | Linux | Very Easy | anonymous FTP, SSH port forward | [funnel.md](htb/machines/funnel.md) |
 
 ### HTB — Challenges
 
