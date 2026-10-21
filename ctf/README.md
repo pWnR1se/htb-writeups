@@ -7,4 +7,4 @@ Only published where the organizer allows writeups. Copy
 
 | Event | Task | Category | Tags | Writeup |
 |---|---|---|---|---|
-| _add here_ | | | | |
+| VulnHub — HarryPotter | Aragog (1/3) | boot2root | `web` `wordpress` `rce` `privesc` | [vulnhub-harrypotter/aragog.md](vulnhub-harrypotter/aragog.md) |

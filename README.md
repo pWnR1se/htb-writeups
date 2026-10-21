@@ -60,7 +60,7 @@ To start a new writeup: copy `_template/TEMPLATE.md` into the right folder, rena
 
 | Event | Task | Category | Writeup |
 |---|---|---|---|
-| _add here_ | | | |
+| VulnHub — HarryPotter | Aragog (1/3) | boot2root | [ctf/vulnhub-harrypotter/aragog.md](ctf/vulnhub-harrypotter/aragog.md) |
 
 ---
 
